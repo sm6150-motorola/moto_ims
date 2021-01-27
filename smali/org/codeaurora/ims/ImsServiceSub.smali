@@ -7352,9 +7352,7 @@
     iget v7, p0, Lorg/codeaurora/ims/ImsServiceSub;->mPhoneId:I
 
     .line 407
-    invoke-static {v6, v7}, Lorg/codeaurora/ims/utils/QtiImsExtUtils;->getAutoRejectMode(Landroid/content/ContentResolver;I)I
-
-    move-result v6
+    const/4 v6, 0x0
 
     const/4 v7, 0x0
 
