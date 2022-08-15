@@ -1,0 +1,18 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: ims.apk
+compressionType: false
+doNotCompress:
+- classes.dex
+- resources.arsc
+- png
+- res/drawable-xhdpi-v4/volte_icon
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework: null
+version: 2.6.1
+versionInfo: null
